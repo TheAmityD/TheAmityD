@@ -7,10 +7,9 @@ I'm ``Amity`` (my alias) and in short-form, ``Am``. Pronoun's ``he/him``.
 ## The things about me
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theamityd&layout=compact&langs_count=10&show_icons=true&theme=synthwave&border_color=e4e2e2&border-radius_8px" width="384px" align="right">
 
-I'm just your average burnt-out gifted kid from a probably prestigious secondary school.
-That guy who gets stressed for making **Scratch** games.
+I'm just your average burnt-out gifted *AuDHD* guy from a probably prestigious secondary school.
 
-I learned (and barely can program using) programming languages through two ways:
+I learned (and barely can program using) programming languages (or not) through two ways:
 |School|Self-taught|
 |-|-|
 |HTML|still HTML|
